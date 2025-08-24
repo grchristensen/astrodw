@@ -1,0 +1,5 @@
+# TODO: Use template structure instead
+astropy
+pandas
+pyvo
+typer
